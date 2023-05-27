@@ -35,5 +35,6 @@
     <None Include="update.bat">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="README.md" />
   </ItemGroup>
 </Project>

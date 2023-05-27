@@ -34,7 +34,6 @@ int main(int, char**) {
 				csgo.write(client + forcejump, 4);
 			}
 		}
-		std::this_thread::sleep_for(std::chrono::milliseconds(1));
 	}
 	return 0;
 }

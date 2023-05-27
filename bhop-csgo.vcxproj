@@ -147,6 +147,7 @@
     <ClInclude Include="src\offsets.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="update.sh" />
     <None Include="update.bat" />
   </ItemGroup>
